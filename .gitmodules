@@ -1,0 +1,3 @@
+[submodule "samu"]
+	path = samu
+	url = ../samu

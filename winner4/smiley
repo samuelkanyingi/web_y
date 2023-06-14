@@ -1,0 +1,11 @@
+#!/bin/bash
+
+# Create the file
+touch '*\\'"Best School"'\\*$?*****:)'
+
+# Add the text and newline to the file
+echo "Best School" > '*\\'"Best School"'\\*$?*****:)'
+
+# Display success message
+echo "File created successfully: *\\'\"Best School\"'\\*$?*****:)"
+
